@@ -14,5 +14,8 @@
     "packages/compositions/*",
     "packages/utils/*",
     "packages/config/*"
-  ]
+  ],
+  "devDependencies": {
+    "@changesets/cli": "^2.28.1"
+  }
 }
