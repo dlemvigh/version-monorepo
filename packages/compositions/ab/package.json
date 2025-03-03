@@ -1,6 +1,6 @@
 {
   "name": "@repo/compositions.ab",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.ts",
   "scripts": {
@@ -10,8 +10,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@repo/components.a": "1.0.0",
-    "@repo/components.b": "1.0.0",
-    "@repo/design-tokens": "1.0.0"
+    "@repo/components.a": "1.0.1",
+    "@repo/components.b": "1.0.1",
+    "@repo/design-tokens": "1.0.1"
   }
 }
