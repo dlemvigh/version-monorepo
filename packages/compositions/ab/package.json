@@ -12,6 +12,6 @@
   "dependencies": {
     "@repo/components.a": "1.0.0",
     "@repo/components.b": "1.0.0",
-    "@repo/design-tokens": "^1.0.0"
+    "@repo/design-tokens": "1.0.0"
   }
 }
