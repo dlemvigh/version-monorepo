@@ -7,7 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "@repo/components.a": "*"
+    "@repo/components.a": "1.0.0",
+    "@repo/design-tokens": "^1.0.0"
   },
   "keywords": [],
   "author": "",
