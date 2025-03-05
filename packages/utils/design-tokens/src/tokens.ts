@@ -3,3 +3,9 @@ export const colors = {
     secondary: '#666',
     tertiary: '#999',
 }
+
+export const spacing = {
+    small: 8,
+    medium: 16,
+    large: 24,
+}
