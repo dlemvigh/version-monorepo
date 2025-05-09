@@ -11,6 +11,7 @@
     "@dlemvigh/version-monorepo.design-tokens": "1.0.2"
   },
   "changesets": [
+    "cold-impalas-wait",
     "empty-files-poke",
     "lemon-streets-nail",
     "twenty-moles-notice"
