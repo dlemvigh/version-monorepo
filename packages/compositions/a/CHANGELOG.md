@@ -1,5 +1,11 @@
 # @dlemvigh/version-monorepo.compositions.a
 
+## 1.0.3-my-experiement.0
+
+### Patch Changes
+
+- af40d22: minor experiment on composition.a
+
 ## 1.0.2
 
 ### Patch Changes
