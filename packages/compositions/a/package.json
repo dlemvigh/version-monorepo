@@ -1,14 +1,19 @@
 {
-  "name": "@repo/compositions.a",
-  "version": "1.0.0",
+  "name": "@dlemvigh/version-monorepo.compositions.a",
+  "version": "1.0.1",
   "description": "",
   "main": "index.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dlemvigh/version-monorepo.git",
+    "directory": "packages/compositions/a"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "@repo/components.a": "1.0.0",
-    "@repo/design-tokens": "1.0.0"
+    "@dlemvigh/version-monorepo.components.a": "1.0.1",
+    "@dlemvigh/version-monorepo.design-tokens": "1.0.1"
   },
   "keywords": [],
   "author": "",

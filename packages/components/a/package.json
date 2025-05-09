@@ -1,8 +1,13 @@
 {
-  "name": "@repo/components.a",
-  "version": "1.0.0",
+  "name": "@dlemvigh/version-monorepo.components.a",
+  "version": "1.0.1",
   "description": "",
   "main": "index.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dlemvigh/version-monorepo.git",
+    "directory": "packages/components/a"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -10,6 +15,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@repo/design-tokens": "1.0.0"
+    "@dlemvigh/version-monorepo.design-tokens": "1.0.1"
   }
 }

@@ -1,8 +1,13 @@
 {
-  "name": "@repo/compositions.ab",
-  "version": "1.0.0",
+  "name": "@dlemvigh/version-monorepo.compositions.ab",
+  "version": "1.0.1",
   "description": "",
   "main": "index.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dlemvigh/version-monorepo.git",
+    "directory": "packages/compositions/ab"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -10,8 +15,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@repo/components.a": "1.0.0",
-    "@repo/components.b": "1.0.0",
-    "@repo/design-tokens": "1.0.0"
+    "@dlemvigh/version-monorepo.components.a": "1.0.1",
+    "@dlemvigh/version-monorepo.components.b": "1.0.1",
+    "@dlemvigh/version-monorepo.design-tokens": "1.0.1"
   }
 }

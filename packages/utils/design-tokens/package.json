@@ -1,8 +1,13 @@
 {
-  "name": "@repo/design-tokens",
-  "version": "1.0.0",
+  "name": "@dlemvigh/version-monorepo.design-tokens",
+  "version": "1.0.1",
   "description": "",
   "main": "index.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dlemvigh/version-monorepo.git",
+    "directory": "packages/utils/design-tokens"
+  },
   "scripts": {
     "build": "tsup src/index.ts",
     "dev": "tsup src/index.ts"
