@@ -1,5 +1,12 @@
 # @dlemvigh/version-monorepo.compositions.a
 
+## 2.0.0-my-experiement.3
+
+### Patch Changes
+
+- Updated dependencies [33f0d1c]
+  - @dlemvigh/version-monorepo.components.a@1.1.0-my-experiement.0
+
 ## 2.0.0-my-experiement.2
 
 ### Major Changes
