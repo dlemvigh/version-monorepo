@@ -1,6 +1,6 @@
 {
   "name": "@dlemvigh/version-monorepo.compositions.ab",
-  "version": "1.0.3-my-experiement.0",
+  "version": "1.0.3",
   "description": "",
   "main": "index.ts",
   "repository": {
@@ -15,7 +15,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@dlemvigh/version-monorepo.components.a": "1.1.0-my-experiement.0",
+    "@dlemvigh/version-monorepo.components.a": "1.1.0",
     "@dlemvigh/version-monorepo.components.b": "1.0.2",
     "@dlemvigh/version-monorepo.design-tokens": "1.0.2"
   }

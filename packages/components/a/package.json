@@ -1,6 +1,6 @@
 {
   "name": "@dlemvigh/version-monorepo.components.a",
-  "version": "1.1.0-my-experiement.0",
+  "version": "1.1.0",
   "description": "",
   "main": "index.ts",
   "repository": {
