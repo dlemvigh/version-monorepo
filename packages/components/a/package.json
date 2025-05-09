@@ -1,6 +1,6 @@
 {
   "name": "@dlemvigh/version-monorepo.components.a",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "main": "index.ts",
   "repository": {
@@ -15,6 +15,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@dlemvigh/version-monorepo.design-tokens": "1.0.1"
+    "@dlemvigh/version-monorepo.design-tokens": "1.0.2"
   }
 }

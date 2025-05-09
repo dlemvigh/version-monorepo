@@ -1,5 +1,15 @@
 # @dlemvigh/version-monorepo.compositions.ab
 
+## 1.0.2
+
+### Patch Changes
+
+- 6121c4e: add repository info to packages
+- Updated dependencies [6121c4e]
+  - @dlemvigh/version-monorepo.design-tokens@1.0.2
+  - @dlemvigh/version-monorepo.components.a@1.0.2
+  - @dlemvigh/version-monorepo.components.b@1.0.2
+
 ## 1.0.1
 
 ### Patch Changes
