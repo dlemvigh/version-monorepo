@@ -1,5 +1,11 @@
 # @dlemvigh/version-monorepo.compositions.a
 
+## 2.0.0-my-experiement.2
+
+### Major Changes
+
+- 306f81b: major change to experiment
+
 ## 1.0.3-my-experiement.1
 
 ### Patch Changes
