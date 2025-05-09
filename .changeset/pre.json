@@ -1,0 +1,16 @@
+{
+  "mode": "pre",
+  "tag": "my-experiement",
+  "initialVersions": {
+    "@dlemvigh/version-monorepo.components.a": "1.0.2",
+    "@dlemvigh/version-monorepo.components.b": "1.0.2",
+    "@dlemvigh/version-monorepo.components.c": "1.0.2",
+    "@dlemvigh/version-monorepo.compositions.a": "1.0.2",
+    "@dlemvigh/version-monorepo.compositions.ab": "1.0.2",
+    "@dlemvigh/version-monorepo.compositions.b": "1.0.2",
+    "@dlemvigh/version-monorepo.design-tokens": "1.0.2"
+  },
+  "changesets": [
+    "empty-files-poke"
+  ]
+}
