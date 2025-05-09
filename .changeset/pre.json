@@ -11,6 +11,7 @@
     "@dlemvigh/version-monorepo.design-tokens": "1.0.2"
   },
   "changesets": [
-    "empty-files-poke"
+    "empty-files-poke",
+    "twenty-moles-notice"
   ]
 }
